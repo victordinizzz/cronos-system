@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cronos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backend/cronos.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
